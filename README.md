@@ -313,17 +313,3 @@ python-dotenv
 colorama
 ```
 
----
-
-# Future Improvements
-
-- Stop-Limit order support
-- Interactive CLI menu
-- Lightweight dashboard UI
-- Automated trading strategies
-
----
-
-# Author
-
-Rayan Ahmed
