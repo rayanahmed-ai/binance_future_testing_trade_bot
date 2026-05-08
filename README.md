@@ -69,7 +69,7 @@ trading_bot/
 ## 1. Clone Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/rayanahmed-ai/binance_future_testing_trade_bot
 cd trading_bot
 ```
 
